@@ -1,0 +1,1 @@
+nvcc -o out.exe <filename> -lcublas
